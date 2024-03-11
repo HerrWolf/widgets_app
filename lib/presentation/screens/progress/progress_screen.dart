@@ -70,7 +70,7 @@ class _ControlledProgressIndicator extends StatelessWidget {
                 value: progressValue,
                 backgroundColor: Colors.black12,
               ))
-            ],
+            ], 
           ),
         );
       },
